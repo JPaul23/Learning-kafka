@@ -1,0 +1,4 @@
+CONSUMER consumer-group-id
+topic: json-events
+partitions: 0
+from: 1
